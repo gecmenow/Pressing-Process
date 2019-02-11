@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\bin\Debug\PressingProcess.exe
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\bin\Debug\PressingProcess.pdb
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\obj\x86\Debug\PressingProcess.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\obj\x86\Debug\PressingProcess.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\obj\x86\Debug\PressingProcess.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\obj\x86\Debug\PressingProcess.exe
+c:\users\user\documents\visual studio 2010\Projects\PressingProcess\PressingProcess\obj\x86\Debug\PressingProcess.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\PressingProcess\PressingProcess\obj\x86\Debug\PressingProcess.csprojResolveAssemblyReference.cache
